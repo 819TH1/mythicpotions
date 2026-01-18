@@ -1,7 +1,5 @@
 # MythicPotions
 
-MythicMobs に LoL (League of Legends) 風の強力なクラウドコントロール（CC）を追加する拡張プラグインです。
-
 ## 追加されるメカニック
 
 ### 1. Knockup (ノックアップ)
@@ -27,7 +25,3 @@ MythicMobs に LoL (League of Legends) 風の強力なクラウドコントロ�
 1. 右側の [Releases](https://github.com/819TH1/mythicpotions/releases) または [Actions](https://github.com/819TH1/mythicpotions/actions) から最新の JAR ファイルをダウンロードします。
 2. サーバーの `plugins` フォルダに JAR を入れます。
 3. MythicMobs のスキル設定（YAML）で上記のメカニックを使用してください。
-
-## 開発者向け (Build)
-このプロジェクトは GitHub Actions による自動ビルドに対応しています。
-ソースコードを Push すると、自動的に JAR ファイルが生成されます。
