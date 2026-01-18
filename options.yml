@@ -1,0 +1,4 @@
+#### knockup ####
+- knockup{power=[数値];duration=[数値]} @target
+  # power: 打ち上げる力 (0.1〜1.0程度が無難)
+  # duration: 制御不能にする時間 (20で1秒)
