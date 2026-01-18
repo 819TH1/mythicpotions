@@ -1,7 +1,5 @@
 me\v819TH1\mythicpotions\Main.class
 me\v819TH1\mythicpotions\mechanics\CharmMechanic$1.class
-me\v819TH1\mythicpotions\mechanics\KnockupMechanic.class
 me\v819TH1\mythicpotions\mechanics\CharmMechanic.class
-me\v819TH1\mythicpotions\mechanics\ITargetedEntityMechanic.class
 me\v819TH1\mythicpotions\mechanics\KnockupMechanic$1.class
-me\v819TH1\mythicpotions\mechanics\LifestealMechanic.class
+me\v819TH1\mythicpotions\mechanics\KnockupMechanic.class
