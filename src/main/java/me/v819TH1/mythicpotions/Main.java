@@ -1,8 +1,8 @@
-package me.yourname.mythicpotions;
+package me.v819TH1.mythicpotions;
 
 import io.lumine.mythic.bukkit.events.MythicMechanicLoadEvent;
-import me.yourname.mythicpotions.mechanics.CharmMechanic;
-import me.yourname.mythicpotions.mechanics.KnockupMechanic;
+import me.v819TH1.mythicpotions.mechanics.CharmMechanic;
+import me.v819TH1.mythicpotions.mechanics.KnockupMechanic;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;

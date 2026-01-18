@@ -1,4 +1,4 @@
-package me.yourname.mythicpotions.mechanics;
+package me.v819TH1.mythicpotions.mechanics;
 
 import io.lumine.mythic.api.adapters.AbstractEntity;
 import io.lumine.mythic.api.config.MythicLineConfig;
@@ -9,7 +9,7 @@ import org.bukkit.entity.LivingEntity;
 import org.bukkit.util.Vector;
 import org.bukkit.scheduler.BukkitRunnable;
 import org.bukkit.plugin.java.JavaPlugin;
-import me.yourname.mythicpotions.Main;
+import me.v819TH1.mythicpotions.Main;
 
 public class CharmMechanic implements ITargetedEntitySkill {
     protected final int duration;
