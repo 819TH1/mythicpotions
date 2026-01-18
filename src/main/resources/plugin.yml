@@ -1,0 +1,6 @@
+name: mythicpotions
+version: 1.0
+main: me.yourname.mythicpotions.Main
+api-version: "1.21"
+depend: [MythicMobs]
+author: YourName
